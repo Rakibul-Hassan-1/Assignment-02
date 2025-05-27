@@ -1,12 +1,6 @@
 -- PostgreSQL Assignment: Wildlife Conservation Monitoring
 -- B5A2: The Ranger and the Rare Animal
 
--- Create the database (run this separately if needed)
--- CREATE DATABASE conservation_db;
-
--- Connect to the database
--- \c conservation_db
-
 -- Create tables
 CREATE TABLE rangers (
     ranger_id SERIAL PRIMARY KEY,
